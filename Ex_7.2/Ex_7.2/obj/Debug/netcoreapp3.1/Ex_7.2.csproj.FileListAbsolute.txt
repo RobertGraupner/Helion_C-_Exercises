@@ -1,0 +1,12 @@
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/bin/Debug/netcoreapp3.1/Ex_7.2.deps.json
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/bin/Debug/netcoreapp3.1/Ex_7.2.runtimeconfig.json
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/bin/Debug/netcoreapp3.1/Ex_7.2.runtimeconfig.dev.json
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/bin/Debug/netcoreapp3.1/Ex_7.2.dll
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/bin/Debug/netcoreapp3.1/Ex_7.2.pdb
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/obj/Debug/netcoreapp3.1/Ex_7.2.csprojAssemblyReference.cache
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/obj/Debug/netcoreapp3.1/Ex_7.2.AssemblyInfoInputs.cache
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/obj/Debug/netcoreapp3.1/Ex_7.2.AssemblyInfo.cs
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/obj/Debug/netcoreapp3.1/Ex_7.2.csproj.CoreCompileInputs.cache
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/obj/Debug/netcoreapp3.1/Ex_7.2.dll
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/obj/Debug/netcoreapp3.1/Ex_7.2.pdb
+/Users/robert/Projects_C#/Ex_7.2/Ex_7.2/obj/Debug/netcoreapp3.1/Ex_7.2.genruntimeconfig.cache

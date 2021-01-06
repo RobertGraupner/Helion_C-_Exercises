@@ -1,0 +1,12 @@
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/bin/Debug/netcoreapp3.1/Ex_8.4.deps.json
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/bin/Debug/netcoreapp3.1/Ex_8.4.runtimeconfig.json
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/bin/Debug/netcoreapp3.1/Ex_8.4.runtimeconfig.dev.json
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/bin/Debug/netcoreapp3.1/Ex_8.4.dll
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/bin/Debug/netcoreapp3.1/Ex_8.4.pdb
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/obj/Debug/netcoreapp3.1/Ex_8.4.csprojAssemblyReference.cache
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/obj/Debug/netcoreapp3.1/Ex_8.4.AssemblyInfoInputs.cache
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/obj/Debug/netcoreapp3.1/Ex_8.4.AssemblyInfo.cs
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/obj/Debug/netcoreapp3.1/Ex_8.4.csproj.CoreCompileInputs.cache
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/obj/Debug/netcoreapp3.1/Ex_8.4.dll
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/obj/Debug/netcoreapp3.1/Ex_8.4.pdb
+/Users/robert/Projects_C#/Ex_8.4/Ex_8.4/obj/Debug/netcoreapp3.1/Ex_8.4.genruntimeconfig.cache
