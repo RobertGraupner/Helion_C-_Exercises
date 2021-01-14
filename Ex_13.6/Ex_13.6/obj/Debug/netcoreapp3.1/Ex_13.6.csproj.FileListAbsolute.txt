@@ -1,0 +1,12 @@
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/bin/Debug/netcoreapp3.1/Ex_13.6.deps.json
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/bin/Debug/netcoreapp3.1/Ex_13.6.runtimeconfig.json
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/bin/Debug/netcoreapp3.1/Ex_13.6.runtimeconfig.dev.json
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/bin/Debug/netcoreapp3.1/Ex_13.6.dll
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/bin/Debug/netcoreapp3.1/Ex_13.6.pdb
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/obj/Debug/netcoreapp3.1/Ex_13.6.csprojAssemblyReference.cache
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/obj/Debug/netcoreapp3.1/Ex_13.6.AssemblyInfoInputs.cache
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/obj/Debug/netcoreapp3.1/Ex_13.6.AssemblyInfo.cs
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/obj/Debug/netcoreapp3.1/Ex_13.6.csproj.CoreCompileInputs.cache
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/obj/Debug/netcoreapp3.1/Ex_13.6.dll
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/obj/Debug/netcoreapp3.1/Ex_13.6.pdb
+/Users/robert/Helion_C#_Exercises/Ex_13.6/Ex_13.6/obj/Debug/netcoreapp3.1/Ex_13.6.genruntimeconfig.cache
